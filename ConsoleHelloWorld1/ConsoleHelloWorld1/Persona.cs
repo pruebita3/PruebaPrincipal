@@ -10,5 +10,19 @@ namespace ConsoleHelloWorld1
         string mensaje = "hola mundo ";
         int numeros = 0;
         string colores = "Mi  color";
+        int codigo = 0;
+
+
+        public void Gestionar()
+        {
+            if (codigo == 4)
+            {
+                return;
+            }
+
+        }
     }
+
+
+
 }
