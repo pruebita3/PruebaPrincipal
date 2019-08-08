@@ -7,6 +7,7 @@ namespace ConsoleHelloWorld1
     class Persona
     {
         public int MyProperty { get; set; }
-        string mensaje = "hola";
+        string mensaje = "hola mundo";
+        string mensaje1 = "quiero comer";
     }
 }
